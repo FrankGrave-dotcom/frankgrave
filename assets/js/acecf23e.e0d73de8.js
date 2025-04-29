@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrankgrave=self.webpackChunkfrankgrave||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/frankgrave/blog","blogTitle":"Blog","authorsListPath":"/frankgrave/blog/authors"}')}}]);
