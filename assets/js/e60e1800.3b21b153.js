@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfrankgrave=self.webpackChunkfrankgrave||[]).push([[7520],{8901:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/frankgrave/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
